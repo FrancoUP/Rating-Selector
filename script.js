@@ -94,7 +94,7 @@ box_rating.addEventListener("touchend", function(e) {
      setRatingButtonsLayout(_class);
   }
 
-}, {passive: true}) 
+}, {passive: false}) 
 
 
 
